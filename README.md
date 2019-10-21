@@ -28,11 +28,11 @@ Distortion
 
 ## Extract frames
 
-You can extract frames by running the script "extract_frames.py".
+You can extract frames from the videos by running the script "extract_frames.py".
 
-1. you need to install open-cv, running the script.
+1. Before running the script, you need to install open-cv first.
 2. runing the script: python .\extract_frames.py -source_video <br>
-   -source_video -- the original video from which you want to get frames<br>
+   replace -source_video by the PATH of the video from which you want to get frames<br>
    
    **ex: python .\extract_frames.py .\Distortion\Motion Blur\MotionBlur Outdoor.mp4**
 4. you will see the generated folder that contains distortion images in the folder "frames".
