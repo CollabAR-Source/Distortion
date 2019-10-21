@@ -1,6 +1,6 @@
 # Distortion
 
-Here is the hyperlink for distortion video: https://1drv.ms/u/s!Aqyf-lNI69G1gkdZUz5J6D5jzv4D?e=fskXOy
+Here is the link for distortion video: https://1drv.ms/u/s!Aqyf-lNI69G1gkdZUz5J6D5jzv4D?e=fskXOy
 
 We use two commodity mobile devices, ie., the Nokia7.1 smart phone and the MagicLeap One head-mounted AR set, to record videos(at 30 fps) in different evironments that suffer three types of image distortion.
 
@@ -28,7 +28,7 @@ Distortion
 
 ## Extract frames
 
-You can make your own distortion image dataset by the script "extract_frames.py".
+You can extract frames by running the script "extract_frames.py".
 
 1. you need to install open-cv, running the script.
 2. runing the script: python .\extract_frames.py -source_video <br>
