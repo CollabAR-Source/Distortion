@@ -22,6 +22,8 @@ Distortion
 │   │
 │   └───Nokia7.1 - Camera zoom In.mp4
 │   └───Nokia7.1 - Dark Room.mp4
+```
 
-
-[![ScreenShot](/upload/ask/29/W/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
+<video id="video" controls="" preload="none" poster="http://img.blog.fandong.me/2017-08-26-Markdown-Advance-Video.jpg">
+      <source id="mp4" src="http://img.blog.fandong.me/2017-08-26-Markdown-Advance-Video.mp4" type="video/mp4">
+      </video>
