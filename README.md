@@ -23,6 +23,5 @@ Distortion
 │   └───Nokia7.1 - Camera zoom In.mp4
 │   └───Nokia7.1 - Dark Room.mp4
 
-<video src="https://raw.yiyoushuo.com/VIDEO/snqx0614~1.mp4" controls="controls">
-Your browser does not support the video tag.
-</video>
+
+[![ScreenShot](/upload/ask/29/W/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
