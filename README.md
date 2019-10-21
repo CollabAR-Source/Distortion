@@ -24,3 +24,17 @@ Distortion
 │   └───Nokia7.1 - Dark Room.mp4
 ```
 
+
+
+## Extract frames
+
+You can make your own distortion image dataset by the script "extract_frames.py".
+
+1. you need to install open-cv, running the script.
+2. runing the script: python .\extract_frames.py -source_video <br>
+   -source_video -- the original video from which you want to get frames<br>
+   
+   **ex: python .\extract_frames.py .\Distortion\Motion Blur\MotionBlur Outdoor.mp4**
+4. you will see the generated folder that contains distortion images in the folder "frames"
+  
+ 
