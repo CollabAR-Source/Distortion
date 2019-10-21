@@ -2,6 +2,8 @@
 
 Here is the hyperlink for distortion video: https://1drv.ms/u/s!Aqyf-lNI69G1gkdZUz5J6D5jzv4D?e=fskXOy
 
+We use two commodity mobile devices, ie., the Nokia7.1 smart phone and the MagicLeap One head-mounted AR set, to record videos(at 30 fps) in different evironments that suffer three types of image distortion.
+
 ```
 Distortion
 └───Motion Blur
