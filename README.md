@@ -24,4 +24,3 @@ Distortion
 │   └───Nokia7.1 - Dark Room.mp4
 ```
 
-<iframe src="//player.bilibili.com/player.html?aid=61430909&cid=106996430&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
