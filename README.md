@@ -15,7 +15,7 @@ Distortion
 └───Gaussian Blur
 │   │
 │   └───Nokia7.1 - Foggy.mp4
-│   └───Nokia7.1 - Underwater
+│   └───Nokia7.1 - Underwater.mp4
 |
 └───Gaussian Noise
 │   │
