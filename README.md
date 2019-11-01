@@ -28,11 +28,11 @@ The videos are recorded at 30 frames per second.
 
 Follow the procedure below to extract image frames from the videos:  
 1. Install the open-cv library before running the python script "*extract_frames.py*".
-2. Runing the script by: `python .\extract_frames.py -source_video'
+2. Runing the script by: `python .\extract_frames.py -source_video`
 
    replace the field `-source_video` by the `PATH of the video` from which you want to extract the frames.
    For instance:  
-   `**python .\extract_frames.py .\Distortion\Motion Blur\MotionBlur Outdoor.mp4**'
+   `**python .\extract_frames.py .\Distortion\Motion Blur\MotionBlur Outdoor.mp4**`
 4. You should be able to see the generated folder that contains extracted images in the folder "frames".
 
   
