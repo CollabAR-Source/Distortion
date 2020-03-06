@@ -35,7 +35,7 @@ Distortion
 
 Follow the procedure below to extract image frames from the videos:  
 1. Install the open-cv library before running the python script "*extract_frames.py*".
-2. Runing the script by: `python .\extract_frames.py -source_video`
+2. Running the script by: `python .\extract_frames.py -source_video`
 
    replace the field `-source_video` by the `PATH of the video` from which you want to extract the frames.
    For instance:  
@@ -55,7 +55,7 @@ Please cite the following paper in your publications if the dataset helps your r
   
 ## 3. <span id="3">Acknowledgments</span>
 
-The authors of this dataset are [Zida Liu](https://zidaliu.github.io/), [Guohao Lan](https://guohao.netlify.com/) and [Maria Gorlatova](https://maria.gorlatova.com/). This work was done in the [Intelligent Interactive Internet of Things Lab](https://maria.gorlatova.com/) at [Duke University](https://www.duke.edu/).
+The authors of this dataset are [Zida Liu](https://zidaliu.github.io/), [Guohao Lan](https://guohao.netlify.com/), and [Maria Gorlatova](https://maria.gorlatova.com/). This work was done in the [Intelligent Interactive Internet of Things Lab](https://maria.gorlatova.com/) at [Duke University](https://www.duke.edu/).
 
 Contact Information of the contributors: 
 
