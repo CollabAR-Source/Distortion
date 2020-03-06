@@ -3,7 +3,7 @@
 
 **Summary**:
 
-* [Extract frames](#1)
+* [Extract frames from videos](#1)
 * [Citation](#2)
 * [Acknowledgments](#3)
 
