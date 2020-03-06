@@ -3,10 +3,9 @@
 
 **Summary**:
 
-* [Distortion-tolerant-image-recognizer](#1)
-* [Auxiliary-assisted multi-view ensembler](#2)
-* [Citation](#3)
-* [Acknowledgments](#4)
+* [Extract frames](#1)
+* [Citation](#2)
+* [Acknowledgments](#3)
 
 
 To quantify the extent of image distortion in real-world mobile augmented scenarios, we use commodity AR devices, i.e., the Nokia 7.1 smartphone and the MagicLeap One head-mounted AR set, to record videos in different real-world environments (at 30 frames per second). The collected videos comprise the **MobileDistortion** dataset and can be downloaded via https://1drv.ms/u/s!Aqyf-lNI69G1gkdZUz5J6D5jzv4D?e=nILsiW.
@@ -32,7 +31,7 @@ Distortion
 │   └───Nokia7.1 - Dark Room.mp4
 ```
 
-## 1. <span id="4">Extract frames from videos</span>
+## 1. <span id="1">Extract frames from videos</span>
 
 Follow the procedure below to extract image frames from the videos:  
 1. Install the open-cv library before running the python script "*extract_frames.py*".
@@ -43,7 +42,7 @@ Follow the procedure below to extract image frames from the videos:
    `python .\extract_frames.py .\Distortion\Motion Blur\MotionBlur Outdoor.mp4`
 4. You should be able to see the generated folder that contains extracted images in the folder "frames".
 
-## 2. <span id="4">Citation</span>
+## 2. <span id="2">Citation</span>
 
 Please cite the following paper in your publications if the dataset helps your research.
 
@@ -54,7 +53,7 @@ Please cite the following paper in your publications if the dataset helps your r
       year={2020}
     }
   
-## 3. <span id="5">Acknowledgments</span>
+## 3. <span id="3">Acknowledgments</span>
 
 The authors of this dataset are [Zida Liu](https://zidaliu.github.io/), [Guohao Lan](https://guohao.netlify.com/) and [Maria Gorlatova](https://maria.gorlatova.com/). This work was done in the [Intelligent Interactive Internet of Things Lab](https://maria.gorlatova.com/) at [Duke University](https://www.duke.edu/).
 
