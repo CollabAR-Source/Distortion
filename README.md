@@ -39,7 +39,7 @@ Follow the procedure below to extract image frames from the videos:
 
    replace the field `-source_video` by the `PATH of the video` from which you want to extract the frames.
    For instance:  
-   `python .\extract_frames.py .\Distortion\Motion Blur\MotionBlur Outdoor.mp4`
+   `python .\extract_frames.py .\Distortion\Motion Blur\MotionBlur Outdoor.mp4`.
 4. You should be able to see the generated folder that contains extracted images in the folder "frames".
 
 ## 2. <span id="2">Citation</span>
