@@ -22,7 +22,6 @@ Distortion
 │   └───Nokia7.1 - Camera zoom In.mp4
 │   └───Nokia7.1 - Dark Room.mp4
 ```
-The videos are recorded at 30 frames per second.
 
 ## Extract frames from videos
 
