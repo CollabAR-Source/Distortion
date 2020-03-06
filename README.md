@@ -35,5 +35,26 @@ Follow the procedure below to extract image frames from the videos:
    `python .\extract_frames.py .\Distortion\Motion Blur\MotionBlur Outdoor.mp4`
 4. You should be able to see the generated folder that contains extracted images in the folder "frames".
 
+## 4. <span id="4">Citation</span>
+
+Please cite the following paper in your publications if the dataset helps your research.
+
+     @inproceedings{Liu20CollabAR,
+      title={{CollabAR}: Edge-assisted collaborative image recognition for mobile augmented reality },
+      author={Liu, Zida and Lan, Guohao and Stojkovic, Jovan and Yunfan, Zhang and Joe-Wong, Carlee and Gorlatova, Maria},
+      booktitle={Proceedings of the 19th ACM/IEEE Conference on Information Processing in Sensor Networks},
+      year={2020}
+    }
   
+## 5. <span id="5">Acknowledgments</span>
+
+The authors of this dataset are [Zida Liu](https://zidaliu.github.io/), [Guohao Lan](https://guohao.netlify.com/) and [Maria Gorlatova](https://maria.gorlatova.com/). This work was done in the [Intelligent Interactive Internet of Things Lab](https://maria.gorlatova.com/) at [Duke University](https://www.duke.edu/).
+
+Contact Information of the contributors: 
+
+* zida.liu AT duke.edu
+* guohao.lan AT duke.edu
+* maria.gorlatova AT duke.edu
+
+This work is supported by the Lord Foundation of North Carolina and by NSF awards CSR-1903136 and CNS-1908051.  
  
