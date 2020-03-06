@@ -1,6 +1,6 @@
 # Real-world Distortion Image Set
 
-To quantify the extent of image distortion in real-world mobile augmented scenarios, we use commodity AR devices, i.e., the Nokia 7.1 smartphone and the MagicLeap One head-mounted ARset, to record videos in different real-world environments. The collected videos comprise the **MobileDistortion** dataset and can be downloaded via: ***[Link will be made available after acceptance]***
+To quantify the extent of image distortion in real-world mobile augmented scenarios, we use commodity AR devices, i.e., the Nokia 7.1 smartphone and the MagicLeap One head-mounted AR set, to record videos in different real-world environments. The collected videos comprise the **MobileDistortion** dataset and can be downloaded via: ***[Link will be made available after acceptance]***
 
 The tree structure of the video set is:
 ```
