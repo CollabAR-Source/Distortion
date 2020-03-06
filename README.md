@@ -1,14 +1,14 @@
 # MobileDistortion dataset
 [![Website shields.io](https://img.shields.io/badge/opencv--python-4.1-lightgrey)](http://shields.io/)
 
+To quantify the extent of image distortion in real-world mobile augmented scenarios, we use commodity AR devices, i.e., the Nokia 7.1 smartphone and the MagicLeap One head-mounted AR set, to record videos in different real-world environments (at 30 frames per second). The collected videos comprise the **MobileDistortion** dataset and can be downloaded via https://1drv.ms/u/s!Aqyf-lNI69G1gkdZUz5J6D5jzv4D?e=nILsiW.
+
 **Summary**:
 
 * [Extract frames from videos](#1)
 * [Citation](#2)
 * [Acknowledgments](#3)
 
-
-To quantify the extent of image distortion in real-world mobile augmented scenarios, we use commodity AR devices, i.e., the Nokia 7.1 smartphone and the MagicLeap One head-mounted AR set, to record videos in different real-world environments (at 30 frames per second). The collected videos comprise the **MobileDistortion** dataset and can be downloaded via https://1drv.ms/u/s!Aqyf-lNI69G1gkdZUz5J6D5jzv4D?e=nILsiW.
 
 The tree structure of the video set is:
 ```
