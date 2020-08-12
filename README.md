@@ -25,7 +25,7 @@ Distortion
 │   └───Nokia7.1 - Foggy.mp4
 │   └───Nokia7.1 - Underwater.mp4
 |
-└───Gaussian Noise
+└───Noise
 │   │
 │   └───Nokia7.1 - Camera zoom In.mp4
 │   └───Nokia7.1 - Dark Room.mp4
